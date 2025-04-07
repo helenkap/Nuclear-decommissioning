@@ -11,7 +11,7 @@ Work with databases on the status of nuclear facilities decommissioning
 - filtering options (faciity types, age, location, etc.)
 
 ### Requirements 
-Python 3.12
+Python 3.11
 Libraries:
 - pandas 
 - openpyxl #reading/writing to excel (.xlsx)
